@@ -1,10 +1,8 @@
 # Training-
 
+[C# Core](#c#core)
 
-
-[C# Core]()
-
-[C# OOP]()
+[C# OOP](#c#oop)
 
 [C# Data ]()
 
@@ -12,7 +10,7 @@
 
 [C# SDET2]()
 
-# C# Lessons
+# C# Core
 
 1. Markdown
 2. Shells & Scripting
@@ -31,3 +29,12 @@
 15. C# Memory Model
 16. File Operations and Logging
 17. Introduction to WPF
+
+# C# OOP
+
+1. Introduction to the 4 pillars of OOP
+2. Classes & Structs
+3. Inheritance
+4. Polymorphism & Interfaces
+5. SOLID Principles
+6. Comparing Objects
